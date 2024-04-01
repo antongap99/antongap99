@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=anton.gap99&theme=onedark&hide_border=true&border_radius=17&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)
+
 <!--
 **antongap99/antongap99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
