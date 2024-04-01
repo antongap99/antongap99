@@ -1,3 +1,4 @@
+<img align="right" alt="conding" width="100%" src="./assets/1cb29fe382bcdb7b35f5839f24742dea.jpeg"/>
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 <img align="right" alt="conding" width="400" src="./assets/alaminxyz.gif"/>
