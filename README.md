@@ -4,7 +4,7 @@
 <img align="right" alt="conding" width="400" src="./assets/alaminxyz.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antongap99&label=Profile%20views&color=0e75b6&style=flat" alt="antongap99" /> </p>
 
-- 🔭 I’m currently working in **Traektoria Glonass**
+- 🔭 I’m currently working in **Ozon tech**
 
 - 🌱 I’m currently learning **FSD and CI/CD**
 
